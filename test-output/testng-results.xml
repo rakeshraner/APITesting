@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2775" started-at="2018-08-19T07:24:02Z" finished-at="2018-08-19T07:24:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2775" started-at="2018-08-19T07:24:02Z" finished-at="2018-08-19T07:24:05Z">
+      <class name="org.restapi.test.DeleteApiTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.restapi.test.DeleteApiTest@2ef5e5e3]" name="setup" is-config="true" duration-ms="33" started-at="2018-08-19T12:54:02Z" finished-at="2018-08-19T12:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deleteCall()[pri:0, instance:org.restapi.test.DeleteApiTest@2ef5e5e3]" name="deleteCall" duration-ms="1890" started-at="2018-08-19T12:54:02Z" finished-at="2018-08-19T12:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCall -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.restapi.test.DeleteApiTest@2ef5e5e3]" name="setup" is-config="true" duration-ms="0" started-at="2018-08-19T12:54:04Z" finished-at="2018-08-19T12:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="deleteCallWithHeader()[pri:0, instance:org.restapi.test.DeleteApiTest@2ef5e5e3]" name="deleteCallWithHeader" duration-ms="793" started-at="2018-08-19T12:54:04Z" finished-at="2018-08-19T12:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCallWithHeader -->
+      </class> <!-- org.restapi.test.DeleteApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
